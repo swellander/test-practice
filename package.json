@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jasmine": "^3.0.0"
+    "browserify": "^16.1.0",
+    "jasmine": "^3.0.0",
+    "watchify": "^3.10.0"
   }
 }
